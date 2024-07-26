@@ -1,0 +1,127 @@
+All Comamnds and what they do :
+
+Admin User
+Add or Remove an user Admin Perms over the Bot ( user need to be in the Admin Database self to add or Remove users)
+
+Admin Nuke 
+A more powerfull nuke than the normal nuke ( TP and particle spam got removed in it / Realm Code will not be auto added into the database)
+
+Admin Spam
+A more powerfull spam (partilce spam got removed )
+
+BBoser
+Spam a Ip adrrese whit Internet Packets (probely not working do not use too :D )
+
+Blacklist user
+Add or Remove a user from the blacklist / these user wont be able to use the bot anymore 
+
+Bot Info
+Get Info about the Bot
+
+Check Codes 
+Check a Realm Code if its vaild or unvaild using Relams api or a http request 
+
+Check Database
+Check databas for unvaild codes and removes them(Probely broken)
+
+Count Codes
+shows how many Realms are in the database/whitlist/realmlist
+
+Database 
+Add or Remove a Realms from the database  
+
+Database NukeV1
+Should work but its poop gonna make errors mid run but error handler saves us <3
+
+Find Realms
+Find a Realms in the Database/Realmslist/bouth 
+
+Force Op
+Force op V4 (very reel)
+
+Freeze Realm
+Freeze a Realm whit a new overlode Chat Packet exploit 
+
+Generate Codes
+Generate Randome Realms Codes and check if they are vaild ( did you know the chance getting an vaild code is 1:16233727 that mean you need to generate like 5000 years none stop to get a vaild one)
+
+Get realm
+get 3 randome Realms from the Database
+
+Get Ip
+get the Ip and Port of a Realm
+
+Guild List
+get a list of every Discord Serve where the Bot is whit an invite to it 
+
+Help 
+a embed like this just a lot smaller ( you can change it  im to lazzy :P )
+
+Honeypot Realms
+Add or Remove a Realm as a honeypot (These Realms can not be joined anymore )
+
+Id Spam 
+Spam a Realm but whit his ID 
+
+Info 
+Gives basic info about the Bot
+
+IP Lookup
+gives Infos about an Ip adrrese like location etc 
+
+Lag Realms
+Spam a Realm whit attackparticle ( i removed the function for attackpartilce so no worky)
+
+leave Guild
+Make the Bot leave a Discord Server whit his Server ID
+
+leave Realm
+Remove Realms from the Realms List
+
+Nuke
+gang bang a Realms whit wisper and external spam + server freezes
+
+ping
+check Server ping
+
+Playerlist 
+get the playerlist of the Realms (Username/xuid/uuid/device) using BP you can also make a version whit RealmsAPI for Player Permission
+
+PMC Scraper
+Scrape the pmc minecraft bedrock Realm post and send all Realms Codes to the Webhook you putted in the command + saves the post
+
+PMC Post Lookup
+get the full post of the User
+
+Premium
+Add/remove Users Premium (only command that is using this is sleeper)
+
+Realms Invites (experimental)
+Should show pending Realms invites and accsept them but idk if its working since i dident tested it yet
+
+Realmdump
+Ger basic infos from a Realms such as Gamemade/RealmID/etc
+
+Realmslist 
+Shows all Realms in your Realmlist whit its ID and status
+
+Seed
+Get a world Seed of the Realm
+
+Server Stats 
+get Server Stats
+
+Sleeper 
+Spam a Realm whit Sleep messages (this command was a premium command so you need a put a Role ID of the server where you using it and have this role)
+
+Spam 
+Spam a Realms whit a message using me/msg/tell external rainbow(makes ur text collerfull) Bypass (add randome stuff behind ur text to bypass anti spams)
+
+Spam User
+Spam @r/@p/@a forgot to work on a user also where you put the user name in it and it spam this user lazzy me :P
+
+Spawn Coords
+get the spawn coords of a Realm when you are lost 
+
+
+

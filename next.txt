@@ -1,0 +1,10 @@
+Stuff That needed to be change or added / issues
+
+Change on Spam the honypot funktion and use Realms Api to chekc how many ppl are in the Realm before joining it ( use const playerCount = await getCurrentPlayerCount(authFlow, realm.id);)
+Bot has often Discord API issues 
+Make consol look better 
+Add a Link command so many ppl can use the bot whit there owen acc | Warning ! If you do this do NOT self host the src since ppl can get your Ip whit this or use an VPN
+I Removed My Bot bypasses so they wont get patched + the partilce spam so you migh add back 
+Ik the src is shitty so make it better instaed of yapping 
+Swich to ERIS if bot is eating to much RAM (2.5-3.6 GB)
+If you need help feel free to dm me (tsl535/1153361250647031838) or ask in my Discord Server for Help https://discord.gg/aTc7JETqTF
