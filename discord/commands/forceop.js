@@ -139,34 +139,5 @@ module.exports = {
     }
 };
 
-client.write("request_permissions", {
-    entity_unique_id: player.entity_unique_id,
-    permission_level: 4,
-    requested_permissions: {
-        _value: 255,
-        build: true,
-        mine: true,
-        doors_and_switches: true,
-        open_containers: true,
-        attack_players: true,
-        attack_mobs: true,
-        operator: true,
-        teleport: true
-    }
-});
 
-client.write("request_permissions_2", {
-    entity_unique_id: player.entity_unique_id,
-    permission_level: 4,
-    requested_permissions: {
-        _value: 255,
-        build: true,
-        mine: true,
-        doors_and_switches: true,
-        open_containers: true,
-        attack_players: true,
-        attack_mobs: true,
-        operator: true,
-        teleport: true
-    }
-});
+
